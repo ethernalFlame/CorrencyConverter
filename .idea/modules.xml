@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabaTinkoff.iml" filepath="$PROJECT_DIR$/.idea/modules/LabaTinkoff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabaTinkoff_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LabaTinkoff_main.iml" group="LabaTinkoff" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabaTinkoff_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LabaTinkoff_test.iml" group="LabaTinkoff" />
+    </modules>
+  </component>
+</project>
